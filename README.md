@@ -1,4 +1,4 @@
-Качаем аккаунты Github для Gitcoin Passport
+Качаем аккаунты Github для Gitcoin Passpor
 
 https://t.me/ponquitter
 
