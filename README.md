@@ -2,7 +2,7 @@
 
 https://t.me/ponquitter
 
-1. Форкаем этот репозиторий. .
+1. Форкаем этот репозиторий. 
 
 2. [Создаем API ключ](https://github.com/settings/tokens/new), нажимаем Generate new token (classic). Выставляем "No 
 Expiration" и прожимаем все галочки. Копируем ключ и сохраняем для дальнейшего
